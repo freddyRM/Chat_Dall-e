@@ -43,7 +43,7 @@ Este proyecto esta hecho en GoogleScript con el api de Telegram y el api de Open
 ### _- Entrar en GoogleScript_
 
 - Crear un nuevo proyecto.
-- Copiar y pegar la estructura que esta [aqui](https://github.com/freddyRM/ChatGPT-3/blob/main/ChatGPT-3.js)
+- Copiar y pegar la estructura que esta [aqui](https://github.com/freddyRM/ChatGPT-3_Image/blob/main/ChatGPT-3_Image.js)
 - Agregar el token del telegram en el lugar correspondiente.
 - Agregar el Id de el documento sheet en el lugar correspondiente.
 - Agregar el nombre de la hoja en el lugar correspondiente.
