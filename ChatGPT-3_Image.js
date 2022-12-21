@@ -31,8 +31,6 @@ function sendPhoto(id, answer) {
     var photo = encodeURIComponent(response);
 
     var url = telegramUrl + "/sendPhoto?chat_id=" + id + "&photo=" + photo;
-    SpreadsheetApp.openById(spreadSheetId).getSheetByName(sheetName).appendRow(["Url", url]);
-    SpreadsheetApp.openById(spreadSheetId).getSheetByName(sheetName).appendRow(["Obtenido", response]);
     try {
         UrlFetchApp.fetch(url);
     } catch (e) {
