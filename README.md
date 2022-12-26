@@ -1,4 +1,4 @@
-# ChatGPT-3_Image
+# Chat_Dall-e_Image
 Este proyecto esta hecho en GoogleScript con el api de Telegram y el api de OpenAI.
 
 ## _¿Como empezamos?_
