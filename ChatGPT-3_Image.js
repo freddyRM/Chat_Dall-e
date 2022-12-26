@@ -1,5 +1,5 @@
 /*
- *  using OpenAI's GPT-3 Language model. (Updated)
+ *  using OpenAI's Dall-e Language model. (Updated)
  *  CREATED BY : FREDDY
 */
 
